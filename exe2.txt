@@ -1,0 +1,5 @@
+in exe1.txt file that was tested: 
+I have noticed that for increasing Hit/Miss ratio we need to input the sequence of duplicated numbers 
+for example, 1 1 1 1 1 1 1 1 1 1 1 1  
+For decreasing Hit/Miss ratio it will be vise versa, we need to reduce the number of duplicated/repeated pages in the sequence that we input.
+for example, 1 2 3 4 5 6 7 8 9 11 34
